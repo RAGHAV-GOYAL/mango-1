@@ -1,2 +1,2 @@
-# mango-1
-vcs
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
